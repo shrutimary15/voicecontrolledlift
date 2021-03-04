@@ -355,7 +355,8 @@ void floorgo()
  - Saliha Shajahan
  - Shilpa Sebastian
  - Shruti Mary Mathew
- - Mrs. Ann Nita Netto
+ - Mrs. Ann Nita Netto (Guide)
+ - Mrs. Sangeeta Harith (HOD)
  
  ### Contact- shrutimary@rediffmail.com
 
