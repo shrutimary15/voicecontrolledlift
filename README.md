@@ -1,15 +1,16 @@
 # Voice Controlled Lift
+This repository consists of details of project done as part of BTech curriculam. 
 
-## Introduction
+## Introduction-
 - The main idea behind this project is to develop a lift which can be operated using voice. It will be helpful for wheelchair bound person, blind person to reach their destination.         
 - The existing system is the lifts with keypad which gets damaged quickly.           
 - This project is designed to overcome such problem by introducing voice commands as input.             
 
-## Detailed Block Diagram of Voice Controlled Lift with battery backup
+## Detailed Block Diagram of Voice Controlled Lift-
 
 ![image](https://user-images.githubusercontent.com/77826778/109938312-e07c3400-7cf5-11eb-9404-d1180cafbd23.png)
 
-
+## Program Code for Arduino
 This program can be used in Arduino UNO platform to make a voice controlled lift which has 4 floors.
 
 ```
@@ -348,11 +349,13 @@ void floorgo()
 
 
 
-### Acknowledgements
+## Acknowledgements
  - Tolin Raj (Main Contributor)
  - Saritha Gopakumar
  - Saliha Shajahan
  - Shilpa Sebastian
  - Shruti Mary Mathew
  - Mrs. Ann Nita Netto
+ 
+ ### Contact- shrutimary@rediffmail.com
 
