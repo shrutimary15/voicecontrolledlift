@@ -351,7 +351,7 @@ void floorgo()
 
 ## Acknowledgements
  - Tolin Raj (Main Contributor)
- - Saritha Gopakumar
+ - [Saritha Gopakumar](https://github.com/saritha-242020)
  - Saliha Shajahan
  - Shilpa Sebastian
  - Shruti Mary Mathew
