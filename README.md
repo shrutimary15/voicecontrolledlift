@@ -1,9 +1,9 @@
 # Voice Controlled Lift
 
 ## Introduction
--The main idea behind this project is to develop a lift which can be operated using voice. It will be helpful for wheelchair bound person, blind person to reach their destination.         
--The existing system is the lifts with keypad which gets damaged quickly.           
--This project is designed to overcome such problem by introducing voice commands as input.             
+- The main idea behind this project is to develop a lift which can be operated using voice. It will be helpful for wheelchair bound person, blind person to reach their destination.         
+- The existing system is the lifts with keypad which gets damaged quickly.           
+- This project is designed to overcome such problem by introducing voice commands as input.             
 
 ## Detailed Block Diagram of Voice Controlled Lift with battery backup
 
@@ -317,6 +317,35 @@ void floorgo()
       com=0;
 }
 ```
+
+## Advantages
+
+- Voice operated system is mainly helpful for paralysed and physically challenged person.
+- Long life.
+- It is helpful for short height people also.
+- No complex wiring required for push buttons.
+- Power failure problem is not affected.
+
+## Applications
+
+- The main areas of usage include shopping mall, hotels, public buildings.
+- The voice based commands can also be used to turn on/off the fan inside the lift.
+- The proposed system could be used in the smart home projects.
+- Can be used in special schools.
+
+
+## References
+
+1. P. Cernys, V. Kubilius, V. Maceraukas, K. Ratkevicius, Intelligent control of lift model, IEEE International Data Acquition and Advanced Computing 	Systems,2003
+2. Oskar Edwertz, Johanna Fredriksson, Ana Ortega Lozano, Åsa 	Rogenfelt, Smartlift, Voice-Activated Elevator, Chalmers 	University of 	Technology, Gothenburg 2015.
+3.	Anu K G, Anupriya K S, Arathi Suresh, Voice operated intelligent lift with emergency indicator, IJARTET, vol.4, March 2017.
+
+
+
+
+
+![IMG-20180114-WA0000](https://user-images.githubusercontent.com/77826778/109940907-90eb3780-7cf8-11eb-8fc1-27c49351dc65.jpeg)
+
 
 
 ### Acknowledgements
