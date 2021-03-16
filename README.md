@@ -10,6 +10,8 @@ This repository consists of details of project done as part of BTech curriculam.
 
 ![image](https://user-images.githubusercontent.com/77826778/109938312-e07c3400-7cf5-11eb-9404-d1180cafbd23.png)
 
+The details of LCD can be found in file [JHD 162.pdf](https://github.com/shrutimary15/voicecontrolledlift/files/6149531/JHD.162.pdf) and details of voice recognition can be found in [User Manual.pdf](https://github.com/shrutimary15/voicecontrolledlift/files/6149536/User.Manual.pdf)
+
 ## Program Code for Arduino
 This program can be used in Arduino UNO platform to make a voice controlled lift which has 4 floors.
 
